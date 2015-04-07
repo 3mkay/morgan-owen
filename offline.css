@@ -1,0 +1,16 @@
+ body {
+    font-family: 'cantarell', sans-serif;
+ }
+
+ .section {
+    margin: 20% auto;
+    width: 500px;
+ }
+
+ p {
+  text-align: center;
+ }
+
+ p a {
+  color: darkRed;
+ }
